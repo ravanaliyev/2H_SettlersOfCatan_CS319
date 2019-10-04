@@ -7,3 +7,4 @@
 * Berrak Taşkınsu
 ## Description of the Project
 The project is an implementation of Settlers of Catan game. The purpose is develop an object oriented software by team.
+## Edited
